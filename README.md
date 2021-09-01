@@ -1,2 +1,2 @@
+![Santiagz's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagz&show_icons=true&theme=city_lights)
 ![Metrics](https://metrics.lecoq.io/santiagz?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FKiev)
-
